@@ -1,0 +1,1 @@
+FILE_PATH = r"C:\Users\emad\Documents\Stock\tse_py"
